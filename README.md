@@ -10,7 +10,7 @@
 
 - 🤝 I like to contribute to open source projects in my free time.
 
-- 📧 How to reach me **ayoob.mohammad98@gmail.com**
+- 📧 How to reach me **ayoob.sub@gmail.com**
 
 - 🔗 Know about my experiences [https://www.linkedin.com/in/ayoobmh](https://www.linkedin.com/in/ayoobmh)
 
