@@ -97,5 +97,4 @@
 </a>
 
 <h3 align="left"></h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoobmh&show_icons=true&theme=dracula" alt="ayoobmh" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoobmh&" alt="ayoobmh" /></p>
