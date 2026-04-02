@@ -95,6 +95,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
+<a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer">
+<img src="https://cdn.clever-cloud.com/uploads/2025/08/icons8-terraform.svg" alt="terraform" width="40" height="40"/>
+</a>
 
 <h3 align="left"></h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoobmh&" alt="ayoobmh" /></p>
